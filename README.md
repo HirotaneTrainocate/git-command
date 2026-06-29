@@ -4,7 +4,3 @@
 ## コンテンツ
 - git add コマンドについて学びます
 - git commit コマンドについて学びます
-- git merge コマンドについて学びます
-- bbb
-- git log コマンドについて学びます
-- aaa
