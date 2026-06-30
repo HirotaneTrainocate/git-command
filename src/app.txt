@@ -1,0 +1,2 @@
+This file is tracked.
+Use it to show normal git add / git status behavior.
